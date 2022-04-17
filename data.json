@@ -987,7 +987,7 @@
     {
         "name": "石家庄城市经济职业学院",
         "domain": "sjzcsjjxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "河北传媒学院",
@@ -1101,8 +1101,8 @@
     },
     {
         "name": "河北外国语学院",
-        "domain": "hbwy.com.cn",
-        "confirmed": false
+        "domain": "hbwgydx.com",
+        "confirmed": true
     },
     {
         "name": "石家庄科技信息职业学院",
@@ -1412,7 +1412,7 @@
     {
         "name": "山西大同大学",
         "domain": "sxdtdx.edu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "晋中学院",
@@ -1457,7 +1457,7 @@
     {
         "name": "山西省财政税务专科学校",
         "domain": "sxftc.edu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "山西警察学院",
@@ -1642,7 +1642,7 @@
     {
         "name": "山西华澳商贸职业学院",
         "domain": "huaao.sx.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "山西运城农业职业技术学院",
@@ -1932,7 +1932,7 @@
     {
         "name": "内蒙古科技职业学院",
         "domain": "imtvc.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "内蒙古北方职业技术学院",
@@ -1957,7 +1957,7 @@
     {
         "name": "乌兰察布医学高等专科学校",
         "domain": "wlcbyz.org.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "鄂尔多斯职业学院",
@@ -2302,7 +2302,7 @@
     {
         "name": "辽宁职业学院",
         "domain": "lnvc.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "辽宁生态工程职业学院",
@@ -2332,7 +2332,7 @@
     {
         "name": "辽宁广告职业学院",
         "domain": "ggxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "辽宁机电职业技术学院",
@@ -2477,12 +2477,12 @@
     {
         "name": "大连航运职业技术学院",
         "domain": "dlmso.com.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "大连装备制造职业技术学院",
         "domain": "dlemcedu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "大连汽车职业技术学院",
@@ -2502,7 +2502,7 @@
     {
         "name": "辽宁工程职业学院",
         "domain": "lngczyxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "辽宁城市建设职业技术学院",
@@ -2717,7 +2717,7 @@
     {
         "name": "吉林交通职业技术学院",
         "domain": "jjtc.com.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "长春东方职业学院",
@@ -2822,7 +2822,7 @@
     {
         "name": "松原职业技术学院",
         "domain": "sypt.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "吉林铁道职业技术学院",
@@ -2857,7 +2857,7 @@
     {
         "name": "吉林职业技术学院",
         "domain": "jlhtedu.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "吉林水利电力职业学院",
@@ -2867,7 +2867,7 @@
     {
         "name": "长春健康职业学院",
         "domain": "ccvch.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "长春早期教育职业学院",
@@ -2877,7 +2877,7 @@
     {
         "name": "梅河口康美职业技术学院",
         "domain": "mhkkmzyjsxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "吉林通用航空职业技术学院",
@@ -2887,7 +2887,7 @@
     {
         "name": "通化医药健康职业学院",
         "domain": "thyyjkzyxy.org.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "长春师范高等专科学校",
@@ -3057,7 +3057,7 @@
     {
         "name": "哈尔滨信息工程学院",
         "domain": "greathiit.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "黑龙江工程学院",
@@ -3067,7 +3067,7 @@
     {
         "name": "鹤岗师范高等专科学校",
         "domain": "hgtc.org.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "黑龙江建筑职业技术学院",
@@ -3097,7 +3097,7 @@
     {
         "name": "黑龙江农业工程职业学院",
         "domain": "hngzy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "黑龙江农垦职业学院",
@@ -3116,8 +3116,8 @@
     },
     {
         "name": "哈尔滨电力职业技术学院",
-        "domain": "hl.sgcc.com.cn",
-        "confirmed": false
+        "domain": "sgcc.com.cn",
+        "confirmed": true
     },
     {
         "name": "哈尔滨铁道职业技术学院",
@@ -3137,7 +3137,7 @@
     {
         "name": "哈尔滨职业技术学院",
         "domain": "hzjxy.org.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "黑龙江外国语学院",
@@ -3167,7 +3167,7 @@
     {
         "name": "哈尔滨传媒职业学院",
         "domain": "hrbmcc.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "哈尔滨剑桥学院",
@@ -3191,8 +3191,8 @@
     },
     {
         "name": "黑龙江生物科技职业学院",
-        "domain": "swkj.net",
-        "confirmed": false
+        "domain": "hljswkj.org.cn",
+        "confirmed": true
     },
     {
         "name": "黑龙江商业职业学院",
@@ -3212,7 +3212,7 @@
     {
         "name": "黑龙江农垦科技职业学院",
         "domain": "nkkjxy.org.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "黑龙江旅游职业技术学院",
@@ -3232,7 +3232,7 @@
     {
         "name": "黑龙江能源职业学院",
         "domain": "hljny.org.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "黑河学院",
@@ -3257,7 +3257,7 @@
     {
         "name": "黑龙江交通职业技术学院",
         "domain": "hlcp.com.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "哈尔滨应用职业技术学院",
@@ -3277,7 +3277,7 @@
     {
         "name": "佳木斯职业学院",
         "domain": "jmszy.org.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "黑龙江护理高等专科学校",
@@ -3287,7 +3287,7 @@
     {
         "name": "齐齐哈尔理工职业学院",
         "domain": "qlgxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "哈尔滨幼儿师范高等专科学校",
@@ -3307,7 +3307,7 @@
     {
         "name": "哈尔滨北方航空职业技术学院",
         "domain": "habeihang.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "复旦大学",
@@ -3587,7 +3587,7 @@
     {
         "name": "上海师范大学天华学院",
         "domain": "sthu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "上海民航职业技术学院",
@@ -3837,7 +3837,7 @@
     {
         "name": "镇江市高等专科学校",
         "domain": "zjc.edu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "南通职业大学",
@@ -3852,7 +3852,7 @@
     {
         "name": "苏州职业大学",
         "domain": "jssvc.edu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "常州工学院",
@@ -4052,7 +4052,7 @@
     {
         "name": "炎黄职业技术学院",
         "domain": "yhjyjt.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "南京科技职业学院",
@@ -4077,7 +4077,7 @@
     {
         "name": "江南影视艺术职业学院",
         "domain": "jnys.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "金肯职业技术学院",
@@ -4706,8 +4706,8 @@
     },
     {
         "name": "嘉兴职业技术学院",
-        "domain": "jxvtc.net",
-        "confirmed": false
+        "domain": "jxvtc.edu.cn",
+        "confirmed": true
     },
     {
         "name": "湖州职业技术学院",
@@ -4942,7 +4942,7 @@
     {
         "name": "浙江宇翔职业技术学院",
         "domain": "yxwy.org",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "浙江金华科贸职业技术学院",
@@ -5237,7 +5237,7 @@
     {
         "name": "安徽体育运动职业技术学院",
         "domain": "ahty.edu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "亳州学院",
@@ -5487,7 +5487,7 @@
     {
         "name": "合肥信息技术职业学院",
         "domain": "hfitu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "桐城师范高等专科学校",
@@ -5772,7 +5772,7 @@
     {
         "name": "泉州纺织服装职业学院",
         "domain": "qzfzfz.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "泉州华光职业学院",
@@ -5847,7 +5847,7 @@
     {
         "name": "泉州信息工程学院",
         "domain": "qziedu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "厦门演艺职业学院",
@@ -5861,8 +5861,8 @@
     },
     {
         "name": "福州科技职业技术学院",
-        "domain": "fzstc.com",
-        "confirmed": false
+        "domain": "fzstc.com.cn",
+        "confirmed": true
     },
     {
         "name": "泉州经贸职业技术学院",
@@ -5947,7 +5947,7 @@
     {
         "name": "厦门南洋职业学院",
         "domain": "ny2000.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "厦门东海职业技术学院",
@@ -5957,7 +5957,7 @@
     {
         "name": "漳州科技职业学院",
         "domain": "tftc.edu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "漳州理工职业学院",
@@ -5977,7 +5977,7 @@
     {
         "name": "泉州海洋职业学院",
         "domain": "qzoiedu.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "泉州轻工职业学院",
@@ -6306,8 +6306,8 @@
     },
     {
         "name": "赣东学院",
-        "domain": "ecutcj.edu.cn",
-        "confirmed": false
+        "domain": "gdc.edu.cn",
+        "confirmed": true
     },
     {
         "name": "南昌航空大学科技学院",
@@ -6412,12 +6412,12 @@
     {
         "name": "江西新能源科技职业学院",
         "domain": "tynxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "江西枫林涉外经贸职业学院",
         "domain": "jxfte.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "江西泰豪动漫职业学院",
@@ -6502,7 +6502,7 @@
     {
         "name": "江西婺源茶业职业学院",
         "domain": "jxtvc.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "赣州职业技术学院",
@@ -6517,7 +6517,7 @@
     {
         "name": "九江理工职业学院",
         "domain": "jjlgedu.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "和君职业学院",
@@ -6966,8 +6966,8 @@
     },
     {
         "name": "山东协和学院",
-        "domain": "sdxiehe.com",
-        "confirmed": false
+        "domain": "sdxiehe.edu.cn",
+        "confirmed": true
     },
     {
         "name": "烟台工程职业技术学院",
@@ -7232,7 +7232,7 @@
     {
         "name": "山东艺术设计职业学院",
         "domain": "sysy.com.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "威海海洋职业学院",
@@ -7252,7 +7252,7 @@
     {
         "name": "日照航海工程职业学院",
         "domain": "rzmevc.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "青岛工程职业学院",
@@ -7287,7 +7287,7 @@
     {
         "name": "潍坊环境工程职业学院",
         "domain": "wfhgzxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "滨州科技职业学院",
@@ -7586,8 +7586,8 @@
     },
     {
         "name": "郑州工业应用技术学院",
-        "domain": "zzgyxy.com",
-        "confirmed": false
+        "domain": "zzuit.edu.cn",
+        "confirmed": true
     },
     {
         "name": "平顶山工业职业技术学院",
@@ -7686,8 +7686,8 @@
     },
     {
         "name": "郑州经贸学院",
-        "domain": "zcib.edu.cn",
-        "confirmed": false
+        "domain": "zueb.edu.cn",
+        "confirmed": true
     },
     {
         "name": "河南质量工程职业学院",
@@ -8442,7 +8442,7 @@
     {
         "name": "湖北开放职业学院",
         "domain": "hbou.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "武汉科技职业学院",
@@ -8462,7 +8462,7 @@
     {
         "name": "武昌职业学院",
         "domain": "wczy.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "武汉商贸职业学院",
@@ -8472,7 +8472,7 @@
     {
         "name": "武汉晴川学院",
         "domain": "qcuwh.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "湖北大学知行学院",
@@ -8567,7 +8567,7 @@
     {
         "name": "湖北文理学院理工学院",
         "domain": "hbasstu.net",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "湖北工程学院新技术学院",
@@ -8607,7 +8607,7 @@
     {
         "name": "武汉工程科技学院",
         "domain": "wuhues.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "武汉华夏理工学院",
@@ -8627,12 +8627,12 @@
     {
         "name": "武汉民政职业学院",
         "domain": "whmzxy.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "湖北黄冈应急管理职业技术学院",
         "domain": "hbpem.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "湖北财税职业学院",
@@ -8662,7 +8662,7 @@
     {
         "name": "三峡电力职业学院",
         "domain": "tgcep.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "湖北第二师范学院",
@@ -8722,12 +8722,12 @@
     {
         "name": "荆门职业学院",
         "domain": "jmzyxy.net.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "武汉铁路桥梁职业学院",
         "domain": "qlxyedu.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "武汉光谷职业学院",
@@ -8742,7 +8742,7 @@
     {
         "name": "湖北孝感美珈职业学院",
         "domain": "mgpi.com.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "荆州教育学院",
@@ -8756,8 +8756,8 @@
     },
     {
         "name": "空军预警学院",
-        "domain": "kjld.mtn",
-        "confirmed": false
+        "domain": "",
+        "confirmed": true
     },
     {
         "name": "湘潭大学",
@@ -8927,7 +8927,7 @@
     {
         "name": "长沙航空职业技术学院",
         "domain": "cavtc.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "湖南医药学院",
@@ -8937,7 +8937,7 @@
     {
         "name": "湖南大众传媒职业技术学院",
         "domain": "hnmmc.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "永州职业技术学院",
@@ -9097,7 +9097,7 @@
     {
         "name": "湘潭医卫职业技术学院",
         "domain": "xtzy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "郴州职业技术学院",
@@ -9117,7 +9117,7 @@
     {
         "name": "长沙环境保护职业技术学院",
         "domain": "hbcollege.com.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "湖南艺术职业学院",
@@ -9242,7 +9242,7 @@
     {
         "name": "湖南软件职业技术大学",
         "domain": "hnsoftedu.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "湖南汽车工程职业学院",
@@ -9257,7 +9257,7 @@
     {
         "name": "湖南水利水电职业技术学院",
         "domain": "hnslsdxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "湖南现代物流职业技术学院",
@@ -9302,7 +9302,7 @@
     {
         "name": "湖南电子科技职业学院",
         "domain": "8379888.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "湖南国防工业职业技术学院",
@@ -9322,7 +9322,7 @@
     {
         "name": "湖南三一工业职业技术学院",
         "domain": "sanyedu.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "长沙卫生职业学院",
@@ -9367,7 +9367,7 @@
     {
         "name": "永州师范高等专科学校",
         "domain": "hnyznc.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "衡阳幼儿师范高等专科学校",
@@ -9677,7 +9677,7 @@
     {
         "name": "珠海艺术职业学院",
         "domain": "zhac.net",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "广东行政职业学院",
@@ -9776,8 +9776,8 @@
     },
     {
         "name": "广东邮电职业技术学院",
-        "domain": "gupt.net",
-        "confirmed": false
+        "domain": "gupt.edu.cn",
+        "confirmed": true
     },
     {
         "name": "汕头职业技术学院",
@@ -9811,8 +9811,8 @@
     },
     {
         "name": "广东亚视演艺职业学院",
-        "domain": "atvcn.com",
-        "confirmed": false
+        "domain": "gdatv.edu.cn",
+        "confirmed": true
     },
     {
         "name": "广东省外语艺术职业学院",
@@ -9821,8 +9821,8 @@
     },
     {
         "name": "广州华立学院",
-        "domain": "hualixy.com",
-        "confirmed": false
+        "domain": "hualixy.edu.cn",
+        "confirmed": true
     },
     {
         "name": "广州应用科技学院",
@@ -9857,7 +9857,7 @@
     {
         "name": "广州工程技术职业学院",
         "domain": "gzvtc.edu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "中山火炬职业技术学院",
@@ -9952,7 +9952,7 @@
     {
         "name": "广州华立科技职业学院",
         "domain": "hlxy.net",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "广州城市职业学院",
@@ -9967,7 +9967,7 @@
     {
         "name": "广州铁路职业技术学院",
         "domain": "gtxy.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "广东科贸职业学院",
@@ -10021,8 +10021,8 @@
     },
     {
         "name": "广州华夏职业学院",
-        "domain": "gzhxtc.cn",
-        "confirmed": false
+        "domain": "gzhxtc.edu.cn",
+        "confirmed": true
     },
     {
         "name": "广东第二师范学院",
@@ -10052,7 +10052,7 @@
     {
         "name": "广东创新科技职业学院",
         "domain": "gdcxxy.net",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "广东舞蹈戏剧职业学院",
@@ -10132,7 +10132,7 @@
     {
         "name": "广东财贸职业学院",
         "domain": "gdcmxy.edu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "广州幼儿师范高等专科学校",
@@ -10296,8 +10296,8 @@
     },
     {
         "name": "南宁职业技术学院",
-        "domain": "ncvt.net",
-        "confirmed": false
+        "domain": "nncvt.edu.cn",
+        "confirmed": true
     },
     {
         "name": "广西科技师范学院",
@@ -10372,7 +10372,7 @@
     {
         "name": "广西国际商务职业技术学院",
         "domain": "gxibvc.net",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "广西农业职业技术学院",
@@ -10407,7 +10407,7 @@
     {
         "name": "北海艺术设计学院",
         "domain": "sszss.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "桂林山水职业学院",
@@ -10472,7 +10472,7 @@
     {
         "name": "广西外国语学院",
         "domain": "cndffc.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "广西电力职业技术学院",
@@ -10507,7 +10507,7 @@
     {
         "name": "广西理工职业技术学院",
         "domain": "gxlgxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "梧州职业学院",
@@ -10557,7 +10557,7 @@
     {
         "name": "广西自然资源职业技术学院",
         "domain": "gxnrvtc.edu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "钦州幼儿师范高等专科学校",
@@ -10852,7 +10852,7 @@
     {
         "name": "重庆海联职业技术学院",
         "domain": "hailian.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "重庆信息技术职业学院",
@@ -10971,8 +10971,8 @@
     },
     {
         "name": "重庆能源职业学院",
-        "domain": "cqny.net",
-        "confirmed": false
+        "domain": "cqny.edu.cn",
+        "confirmed": true
     },
     {
         "name": "重庆商务职业学院",
@@ -11052,7 +11052,7 @@
     {
         "name": "重庆护理职业学院",
         "domain": "cqnvc.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "重庆理工职业学院",
@@ -11432,7 +11432,7 @@
     {
         "name": "四川工商学院",
         "domain": "stbu.edu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "四川外国语大学成都学院",
@@ -11487,7 +11487,7 @@
     {
         "name": "四川铁道职业学院",
         "domain": "scrc.org.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "四川艺术职业学院",
@@ -11572,7 +11572,7 @@
     {
         "name": "川北幼儿师范高等专科学校",
         "domain": "cbyzsc.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "四川卫生康复职业学院",
@@ -11597,7 +11597,7 @@
     {
         "name": "四川希望汽车职业学院",
         "domain": "qicheedu.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "四川电子机械职业技术学院",
@@ -11667,7 +11667,7 @@
     {
         "name": "江阳城建职业学院",
         "domain": "jyccc.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "天府新区航空旅游职业学院",
@@ -11677,7 +11677,7 @@
     {
         "name": "天府新区通用航空职业学院",
         "domain": "ausedu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "阿坝职业学院",
@@ -11722,7 +11722,7 @@
     {
         "name": "南充电影工业职业学院",
         "domain": "ncfiva.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "绵阳飞行职业学院",
@@ -11757,7 +11757,7 @@
     {
         "name": "广元中核职业技术学院",
         "domain": "nivtc.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "四川体育职业学院",
@@ -11766,8 +11766,8 @@
     },
     {
         "name": "武警警官学院",
-        "domain": "wjcd.net",
-        "confirmed": false
+        "domain": "",
+        "confirmed": true
     },
     {
         "name": "武警海警学院",
@@ -11857,7 +11857,7 @@
     {
         "name": "黔南民族医学高等专科学校",
         "domain": "qnmc.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "贵州商学院",
@@ -11941,8 +11941,8 @@
     },
     {
         "name": "贵阳信息科技学院",
-        "domain": "gzu.edu.cn",
-        "confirmed": false
+        "domain": "giist.cn",
+        "confirmed": true
     },
     {
         "name": "贵阳人文科技学院",
@@ -12007,7 +12007,7 @@
     {
         "name": "贵州工商职业学院",
         "domain": "gzgszy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "贵州理工学院",
@@ -12057,7 +12057,7 @@
     {
         "name": "贵州工贸职业学院",
         "domain": "gzgmzyxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "贵州水利水电职业技术学院",
@@ -12122,7 +12122,7 @@
     {
         "name": "贵州机电职业技术学院",
         "domain": "gztcme.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "贵州财经职业学院",
@@ -12262,7 +12262,7 @@
     {
         "name": "云南交通职业技术学院",
         "domain": "ynjtc.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "昆明工业职业技术学院",
@@ -12327,7 +12327,7 @@
     {
         "name": "丽江文化旅游学院",
         "domain": "lywhxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "昆明城市学院",
@@ -12337,17 +12337,17 @@
     {
         "name": "昆明医科大学海源学院",
         "domain": "kyhyxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "云南艺术学院文华学院",
         "domain": "whxyart.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "昆明文理学院",
-        "domain": "ysdwl.cn",
-        "confirmed": false
+        "domain": "caskm.cn",
+        "confirmed": true
     },
     {
         "name": "昆明理工大学津桥学院",
@@ -12837,7 +12837,7 @@
     {
         "name": "西安城市建设职业学院",
         "domain": "xacsjsedu.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "陕西服装工程学院",
@@ -12872,12 +12872,12 @@
     {
         "name": "西安交通大学城市学院",
         "domain": "xjtucc.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "西北大学现代学院",
         "domain": "xdxd.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "西安建筑科技大学华清学院",
@@ -13002,12 +13002,12 @@
     {
         "name": "西安理工大学高科学院",
         "domain": "xthtc.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "西安科技大学高新学院",
         "domain": "gaoxinedu.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "西安医学高等专科学校",
@@ -13042,12 +13042,12 @@
     {
         "name": "榆林能源科技职业学院",
         "domain": "ylnkxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "宝鸡中北职业学院",
         "domain": "sxzbxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "陕西航天职工大学",
@@ -13067,7 +13067,7 @@
     {
         "name": "陕西省建筑工程总公司职工大学",
         "domain": "sjzdedu.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "陆军边海防学院",
@@ -13242,7 +13242,7 @@
     {
         "name": "兰州博文科技学院",
         "domain": "bowenedu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "兰州信息科技学院",
@@ -13252,7 +13252,7 @@
     {
         "name": "武威职业学院",
         "domain": "wwoc.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "甘肃交通职业技术学院",
@@ -13332,7 +13332,7 @@
     {
         "name": "兰州航空职业技术学院",
         "domain": "lzavu.cn",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "甘肃财贸职业学院",
@@ -13471,8 +13471,8 @@
     },
     {
         "name": "银川科技学院",
-        "domain": "cumtyc.com.cn",
-        "confirmed": false
+        "domain": "ycust.com",
+        "confirmed": true
     },
     {
         "name": "宁夏葡萄酒与防沙治沙职业技术学院",
@@ -13487,7 +13487,7 @@
     {
         "name": "宁夏艺术职业学院",
         "domain": "nxyszyxy.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "宁夏体育职业学院",
@@ -13592,7 +13592,7 @@
     {
         "name": "新疆能源职业技术学院",
         "domain": "xjnyedu.com",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "新疆警察学院",
@@ -13742,7 +13742,7 @@
     {
         "name": "新疆科信职业技术学院",
         "domain": "kxedu.net",
-        "confirmed": false
+        "confirmed": true
     },
     {
         "name": "阿勒泰职业技术学院",
