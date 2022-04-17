@@ -12646,12 +12646,10 @@
     },
     {
         "name": "西北农林科技大学",
-        "domain": "nwafu.edu.cn",
-        "confirmed": true
-    },
-    {
-        "name": "西北农林科技大学",
-        "domain": "nwsuaf.edu.cn",
+        "domain": [
+            "nwafu.edu.cn", 
+            "nwsuaf.edu.cn"
+        ],
         "confirmed": true
     },
     {
